@@ -1,6 +1,4 @@
 - 👋 Hi There,
-- 👀 I’m interested in embedded systems
-- 🌱 I’m currently learning C++
 - 📫 How to reach me: aygun.enes@outlook.com
 
 <!---
